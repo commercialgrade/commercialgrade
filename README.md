@@ -6,4 +6,4 @@ My current concentration is in Jamstack, MEAN, and MERN applications.
 
 I also build and support PHP (LAMP) applications.  
 
-Please visit paulbonnette.app for more information.
+Please visit [My Blog](https://paulbonnette.app) for more information.
