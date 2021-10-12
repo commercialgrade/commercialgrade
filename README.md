@@ -1,5 +1,1 @@
-Welcome to my GitHub repository.
-
-I've been developing "commercial grade" applications for about 25 years.  I started before client/server was a thing.  Built about half a dozen client/server applications complete with installation disks.  I was promoted to senior software engineer and made a partner.  Saw PHP/LAMP would surpass that technology and shifted gears in that direction for another _(almost)_ 20 years now under my own company. The next big thing is clearly Jamstack/MEAN/MERN applications.  I still build and support PHP(LAMP) applications.  It's all about using the right tool for the job.
-
-To learn about my crazy projects and career you can visit [My Blog](https://paulbonnette.app) for more information.  If you want to contact me please visit [Commercial Grade](https://commercialgrade.com/contact-us/) and I'll be happy to help you.
+Welcome to my Commercial Grade repository.
